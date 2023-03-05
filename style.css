@@ -45,7 +45,7 @@ nav {
     width: 100%;
     background: transparent;
     padding: 10px;
-    /* outline: none; */
+    outline: none;
     border: 0;
 }
 .nav-user-icon img {
